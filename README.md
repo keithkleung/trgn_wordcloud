@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # trgn_wordcloud assignment
 
 **The following explains the content of this homework assignment for TRGN 510**
@@ -23,3 +24,6 @@
 
 **Contact**
 - *keithleu@usc.edu*
+=======
+# trgn_wordcloud
+>>>>>>> f83bf2cad5acfd865227c128010d4d68b950be4d
